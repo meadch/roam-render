@@ -5,7 +5,3 @@ A collection of custom Roam Research components. Requires user setting `Allow cu
 - [Timespan](docs/timespan.md)
 
 
-- Refs
-- Tests
-- What is the RR schema?
-
